@@ -1,6 +1,18 @@
-def add(num1, num2):
-    return num1 + num2
+def add(x, y):
+    pass
 
 
-result = add(1, 2)
-print(result)
+def subtract(x, y):
+    pass
+
+
+def multiply(x, y):
+    return x * y
+
+
+def divide(x, y):
+    pass
+
+
+def square(x):
+    pass
